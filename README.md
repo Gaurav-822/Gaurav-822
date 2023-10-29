@@ -1,4 +1,4 @@
-# NAMASKARAM 🙏👋
+# NAMASKARAM 👋
 
 ## Statistics
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-822&langs_count=8&count_private=true&show_icons=true&theme=blue-green" alt="gaurav" />
