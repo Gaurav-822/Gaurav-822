@@ -6,4 +6,4 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-An enthusiast of Human technological advancement, willing to make a share in it and increase my knowledge in the field of Tech..
+An enthusiast of Human technological advancement, willing to make a share in it and increase my knowledge in the field of Tech.
