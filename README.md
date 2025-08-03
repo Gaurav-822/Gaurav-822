@@ -15,8 +15,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Gaurav-822&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # </> Coding Profile:
-![LeetCode Stats](https://leetcard.jacoblin.cool/gauravbk08?theme=light&font=Antonio)
-![LeetCode Stats](https://leetcard.jacoblin.cool/soulgaurav08?theme=light&font=Antonio)
+![LeetCode Stats](https://leetcard.jacoblin.cool/gauravbk08?theme=dark&font=Grandstander)
+![LeetCode Stats](https://leetcard.jacoblin.cool/soulgaurav08?theme=dark&font=Grandstander&ext=heatmap)
 
 ## ✍️Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
