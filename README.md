@@ -1,5 +1,5 @@
 <h1>. / Hello, I'm Gaurav • SDE | AI Engineer | System Architect</h1>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXMyYnR6YWF4cnBncWxjczhnbDFoYjA3b21qdTZtYTQ4aG8wYmR1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="230">
 
 Building scalable fullstack systems, distributed architectures, AI-powered products, and developer tools.
 
@@ -39,33 +39,10 @@ Building scalable fullstack systems, distributed architectures, AI-powered produ
 
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,arduino,notion,vscode&perline=8)](https://skillicons.dev)
 
----
-
-## Engineering Principles
-
-```yaml
-Architecture:
-  - Scalability First
-  - Reliability by Design
-  - Event Driven Systems
-  - API First Development
-
-Development:
-  - Clean Code
-  - Performance Optimization
-  - Automation
-  - Observability
-
-Mindset:
-  - Build → Measure → Improve
-  - Ship Fast, Scale Smart
-```
-
----
 
 ## GitHub Analytics
 
-<div align="center">
+<div align="left">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gaurav-822&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
 
@@ -73,13 +50,12 @@ Mindset:
 
 </div>
 
-<div align="center">
+<div align="left">
 
 <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav-822&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
 
 ## Contribution Graph
 
@@ -89,31 +65,28 @@ Mindset:
 
 </div>
 
----
 
 ## Achievements
 
-<div align="center">
+<div align="left">
 
 <img width="900" src="https://github-profile-trophy.vercel.app/?username=Gaurav-822&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
 
 </div>
 
----
 
 ## Detailed Metrics
 
-<div align="center">
+<div align="left">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaurav-822&theme=tokyonight" />
 
 </div>
 
----
 
 ## Open Source Impact
 
-<div align="center">
+<div align="left">
 
 <img width="700" src="https://github-contributor-stats.vercel.app/api?username=Gaurav-822&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 
@@ -121,7 +94,7 @@ Mindset:
 
 ## </> Coding Profile
 
-<div align="center">
+<div align="left">
 
 <img src="https://leetcard.jacoblin.cool/gauravbk08?theme=dark&font=Grandstander" />
 
@@ -131,38 +104,26 @@ Mindset:
 
 </div>
 
----
 
-## Philosophy
+> Data structures provide foundation. Algorithms create path. Innovation follows!
 
-> Great software is not built by adding complexity. It is built by managing it.
-
----
-
-## Quote of the Day
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 ## Contact Me
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Eyb285YWVzZ2FmcXMycTNkN3NwMWgyZmNwd2gzeDFlcXR6MHVoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RYBNrav8JrTMcgLoHV/giphy.gif" width="230">
 
 <p align="left">
-<a href="https://linkedin.com/in/gauravbk08">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.cxom/gauravbk08">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
-</a>
+  <a href="https://linkedin.com/in/gauravbk08">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/gauravbk08">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  </a>
 </p>
 
----
+<div align="left">
 
-<div align="center">
-
-### Thanks for visiting!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+### Btw, Thanks for visiting!
+Time to explore the projects and the ideas I'm turning into reality. Feel free to look around—and also one more thing, don't forget to enjoy the mountains!
 
 </div>
